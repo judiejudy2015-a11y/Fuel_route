@@ -40,7 +40,7 @@ logger = logging.getLogger(__name__)
 # Constants
 # ---------------------------------------------------------------------------
 
-CORRIDOR_MILES = 300
+CORRIDOR_MILES = 10
 GEOCODE_CACHE_FILE = Path(__file__).parent / "data" / "geocode_cache.json"
 
 US_STATES = {
