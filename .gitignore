@@ -1,0 +1,7 @@
+p.txt
+.env
+routing/data/geocode_cache.json
+db.sqlite3
+__pycache__/
+*.pyc
+.DS_Store
